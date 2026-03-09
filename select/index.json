@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ベイビーインサイド / 一筆かもめ feat. 音街ウナ (Baby inside / ippitsukamome feat. Otomachi Una)",
+  "base_artist": "一筆かもめ / ippitsukamome",
+  "createdAt": "2026-03-09T11:53:34.408352Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ベイビーインサイド",
+      "artist": "一筆かもめ",
+      "has_synced": false,
+      "path": "select/pl_01_ベイビーインサイド_一筆かもめ.txt"
+    }
+  ]
+}
